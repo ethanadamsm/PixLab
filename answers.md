@@ -1,0 +1,5 @@
+1. java.awt.Color[r=255,g=102,b=153]
+2. java.awt.Color[r=255,g=255,b=51]
+3. java.awt.Color[r=153,g=51,b=255]
+4. java.awt.Color[r=0,g=0,b=0]
+5. java.awt.Color[r=51,g=51,b=51]
